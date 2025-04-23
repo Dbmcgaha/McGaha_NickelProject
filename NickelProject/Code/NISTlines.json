@@ -1,0 +1,36 @@
+{
+    "lines": [
+        {
+            "path": "input/lines/GOLD.txt",
+            "description": "Gold data peaks"
+        },
+        {
+            "path": "input/lines/Ni_I.txt",
+            "description": "NIST nickel I lines"
+        },
+        {
+            "path": "input/lines/Ni_II.txt",
+            "description": "NIST nickel II lines"
+        },
+        {
+            "path": "input/lines/H.txt",
+            "description": "NIST hydrogen lines"
+        },
+        {
+            "path": "input/lines/Ar.txt",
+            "description": "NIST argon lines"
+        },
+        {
+            "path": "input/lines/Hg.txt",
+            "description": "NIST mercury lines"
+        },
+        {
+            "path": "input/lines/Ne.txt",
+            "description": "NIST neon lines"
+        },
+        {
+            "path": "input/lines/C.txt",
+            "description": "NIST carbon lines"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "nickel3": [
+        {
+            "path": "input/ni3cm/18112914.csv",
+            "description": "187 - 230 nm"
+        },
+        {
+            "path": "input/ni3cm/18112915.csv",
+            "description": "223 - 266 nm"
+        },
+        {
+            "path": "input/ni3cm/18112916.csv",
+            "description": "259 - 302 nm"
+        },
+        {
+            "path": "input/ni3cm/18112917.csv",
+            "description": "296 - 337 nm"
+        },
+        {
+            "path": "input/ni3cm/18112918.csv",
+            "description": "331 - 373 nm"
+        },
+        {
+            "path": "input/ni3cm/18112919.csv",
+            "description": "368 - 409 nm"
+        },
+        {
+            "path": "input/ni3cm/18112920.csv",
+            "description": "404 - 445 nm"
+        },
+        {
+            "path": "input/ni3cm/18112921.csv",
+            "description": "441 - 480 nm"
+        },
+        {
+            "path": "input/ni3cm/18112922.csv",
+            "description": "476 - 516 nm"
+        },
+        {
+            "path": "input/ni3cm/18112923.csv",
+            "description": "513 - 552 nm"
+        },
+        {
+            "path": "input/ni3cm/18112924.csv",
+            "description": "549 - 588 nm"
+        },
+        {
+            "path": "input/ni3cm/18112925.csv",
+            "description": "585 - 624 nm"
+        },
+        {
+            "path": "input/ni3cm/18112926.csv",
+            "description": "622 - 659 nm"
+        },
+        {
+            "path": "input/ni3cm/18112927.csv",
+            "description": "658 - 695 nm"
+        },
+        {
+            "path": "input/ni3cm/18112929.csv",
+            "description": "694 - 731 nm"
+        },
+        {
+            "path": "input/ni3cm/18112930.csv",
+            "description": "730 - 766 nm"
+        },
+        {
+            "path": "input/ni3cm/18112931.csv",
+            "description": "766 - 802 nm"
+        }
+    ],
+    "nickel6": [
+        {
+            "path": "input/ni6cm/18112932.csv",
+            "description": "187 - 230 nm"
+        },
+        {
+            "path": "input/ni6cm/18112933.csv",
+            "description": "236 - 276 nm"
+        },
+        {
+            "path": "input/ni6cm/18112934.csv",
+            "description": "269 - 311 nm"
+        },
+        {
+            "path": "input/ni6cm/18112935.csv",
+            "description": "296 - 337 nm"
+        },
+        {
+            "path": "input/ni6cm/18112936.csv",
+            "description": "368 - 409 nm"
+        },
+        {
+            "path": "input/ni6cm/18112937.csv",
+            "description": "730 - 766 nm"
+        },
+        {
+            "path": "input/ni6cm/18112938.csv",
+            "description": "332 - 374 nm"
+        },
+        {
+            "path": "input/ni6cm/18112939.csv",
+            "description": "404 - 445 nm"
+        },
+        {
+            "path": "input/ni6cm/18112940.csv",
+            "description": "440 - 448 nm"
+        },
+        {
+            "path": "input/ni6cm/18112942.csv",
+            "description": "476 - 516 nm"
+        },
+        {
+            "path": "input/ni6cm/18112944.csv",
+            "description": "513 - 553 nm"
+        },
+        {
+            "path": "input/ni6cm/18112947.csv",
+            "description": "477 - 517 nm"
+        },
+        {
+            "path": "input/ni6cm/18112949.csv",
+            "description": "477 - 517 nm"
+        }
+    ],
+    "gold": [
+        {
+            "path": "input/2nd_probe/18113008.csv",
+            "description": "259 - 302 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113009.csv",
+            "description": "296 - 337 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113010.csv",
+            "description": "187 - 230 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113011.csv",
+            "description": "223 - 266 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113012.csv",
+            "description": "331 - 373 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113013.csv",
+            "description": "368 - 409 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113014.csv",
+            "description": "404 - 445 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113015.csv",
+            "description": "441 - 480 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113016.csv",
+            "description": "259 - 302 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113017.csv",
+            "description": "476 - 516 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113018.csv",
+            "description": "513 - 552 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113019.csv",
+            "description": "549 - 588 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113020.csv",
+            "description": "585 - 624 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113021.csv",
+            "description": "622 - 659 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113022.csv",
+            "description": "658 - 695 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113023.csv",
+            "description": "694 - 731 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113024.csv",
+            "description": "730 - 766 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113025.csv",
+            "description": "766 - 802 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113029.csv",
+            "description": "187 - 230 nm"
+        },
+        {
+            "path": "input/2nd_probe/18113030.csv",
+            "description": "296 - 337 nm"
+        }
+
+    ]
+}
